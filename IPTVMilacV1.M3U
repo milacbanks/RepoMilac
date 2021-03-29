@@ -1,7 +1,7 @@
-#EXTM3U
+﻿#EXTM3U
 
-#EXTINF:-1´type="video" tvg-logo="LINK" group-title="TOPO" pltv-subgroup="GENERO",MilacTitulo
-https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b2128000.m3u8
+
+#EXTINF:-1´type="video" tvg-logo="LOGOTIPO-DOCANAL" group-title="FILMES" pltv-subgroup="COMEDIA",TESTE UPAR 01
 
 #EXTINF:-1´type="video" tvg-logo="LOGOTIPO-DOCANAL" group-title="FILMES" pltv-subgroup="COMEDIA",Nome do Episodio
 https://ia800500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_39.mp4
