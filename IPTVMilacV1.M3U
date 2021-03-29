@@ -1,0 +1,304 @@
+﻿#EXTM3U
+
+#EXTINF:-1´type="video" tvg-logo="LOGOTIPO-DOCANAL" group-title="FILMES" pltv-subgroup="COMEDIA",Nome do Episodio
+https://ia800500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_39.mp4
+
+#BAND
+
+#EXTINF:-1 tvg-id="Band" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/band_sao_paulo.jpg" group-title="TV Aberta",BAND
+http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
+
+#RECORD
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="CANAL ABERTO",RECORD 1
+https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
+
+#CULTURA CATV
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tv-cultura-logo-8043A38965-seeklogo.com.png" group-title="CANAL ABERTO",CULTURA
+http://wowza4.catve.com.br:1935/live/livestream/chunklist_w1766700799.m3u8
+
+#REDE TV PB
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MEBQV6z.png" group-title="CANAL ABERTO",REDE TV
+https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/chunklist_w68693802_b2933347.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MEBQV6z.png" group-title="CANAL ABERTO",REDE TV SP ?
+https://hls.brasilstream.com.br/live/redetves/redetves/mono.m3u8?token=6410329353875642000
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MEBQV6z.png" group-title="CANAL ABERTO",REDE TV 3br.tv
+https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/chunklist_w188855886.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MEBQV6z.png" group-title="CANAL ABERTO",REDE TV 3br.tv 2
+https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/chunklist_w1109556622.m3u8
+
+
+
+#SBT PE
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="CANAL ABERTO",SBT HD PE
+http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
+
+#SBT SP
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="CANAL ABERTO",SBT SP
+https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w2067742926_b216000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="CANAL ABERTO",SBT 3br.tv
+https://stmv1.transmissaodigital.com/cidadeverde/cidadeverde/chunklist_w652992864.m3u8
+
+
+#RECORD
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="CANAL ABERTO",RECORD TV
+https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_360_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="CANAL ABERTO",RECORD HD
+https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-b.m3u8?sd=10&rebase=on
+
+#REDE VIDA
+
+
+#EXTINF:-1 tvg-logo="https://goo.gl/H4GFo1" group-title="RELIGIOSO", REDE VIDA 2
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b2128000.m3u8
+
+#GAZETA
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/tvgazeta.png" group-title="CANAL ABERTO",TV GAZETA HD
+http://api.new.livestream.com:80/accounts/5381476/events/8947634/live.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CANAL ABERTO",CN YOUTUBE
+https://r1---sn-45nuxgoxu-nvql.googlevideo.com/videoplayback?expire=1616997033&ei=SRZhYIGoK-6MobIP__2l6A0&ip=189.51.221.123&id=VCWPQRoN1Ms.1&itag=243&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=yt_live_broadcast&requiressl=yes&mh=vS&mm=44%2C29&mn=sn-45nuxgoxu-nvql%2Csn-bg07dn6l&ms=lva%2Crdu&mv=m&mvi=1&pl=22&initcwndbps=940000&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fwebm&ns=YFY91UPDH_1qVOV5EQtyayIF&gir=yes&mt=1616975061&fvip=1&keepalive=yes&fexp=24001373%2C24007246&c=WEB_EMBEDDED_PLAYER&n=HhMOfzi26CBFQg&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRQIgLeQb6u8LzibTr1HSzegYiPTfz_xhZjun2DVpOTIzNxgCIQDbbvFRm_YZdbiYTP0ezSP8IGD1FMWxyyj5SWwjfQKsxA%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIgMk0M9Eo7PVaFGBmeziwLTP1q2yqoKOVUVsYTW3wx1pECIQCw9jI-jnxZQ65mXbRG58tI32czmga2mNEqbKYMeNN9Kg%3D%3D&alr=yes&cpn=di3g_8vQ4MpI3gmr&cver=1.20210322.1.0&headm=4&rn=1
+
+
+
+#DIFERENTES
+
+
+#BETER LIFE
+
+#EXTINF:-1 group-title="ABERTOS",Better Life
+http://uni5rtmp.tulix.tv:1935/bettervida/bettervida/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pa-str.srvsite.com/arquivos/3393/cabecalho-3393-20180515164408.png" group-title="CANAL ABERTO",SUMMERTV
+http://tv01.logicahost.com.br:1935/summertv/summertv/chunklist_w892864044.m3u8
+
+#EXTINF:-1 group-title="ABERTOS",NOVO TEMPO
+http://stream.novotempo.com:1935/tv/smil:tvnovotempo.smil/manifest.m3u8
+
+#EXTINF:-1 group-title="ABERTOS",TERCEIRO ANJO
+http://streamer1.streamhost.org:1935/salive/GMI3anjoh/playlist.m3u8
+
+#Retro Music Television Republica Tcheca
+#EXTINF:-1 group-title="ABERTOS",MUSIC TV RETRO
+http://stream.mediawork.cz/retrotv//retrotvHQ1/chunklist_w1844566778.m3u8
+
+
+#EXTINF:-1 group-title="ABERTOS",MTV 3br.tv
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 group-title="ABERTOS",REDE BRASIL 3br.tv
+https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w1664136893.m3u8
+
+#EXTINF:-1 group-title="ABERTOS",RECORD 3br.tv
+https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 group-title="ABERTOS",Sexy KpopTV
+https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
+
+
+
+#M2O TV 1
+#EXTINF:-1 group-title="ABERTOS",M2O TV 1
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/QhSS71Q.png" tvg-name=""radio=true,Rádio FM O Dia
+https://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/chunklist_b963840.m3u8
+
+#Rede Brasil DE
+
+
+#EXTINF:-1 tvg-id="Rede Brasil" tvg-logo="http://i.imgur.com/uwzYiHs.png" group-title="TV Aberta",Rede Brasil DE
+http://rbc.directradios.com:1935/rbc/smil:rbc.smil/playlist.m3u8
+
+#DIARIO DO SERTÃO 
+
+
+#EXTINF:-1 tvg-logo="http://s11.postimg.org/l4gjn0o4j/TV_Di_rio_do_Sert_o.png" group-title="TV Aberta",TV DIARIO DO SERTÃO 
+http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
+
+
+
+#TV PARANA
+
+#EXTINF:-1 tvg-logo="http://s16.postimg.org/axul05l4l/TV_Paran.jpg" group-title="TV Aberta",TV PARANA
+http://200.189.113.201/hls/tve.m3u8
+
+
+
+#TVE RS 
+
+
+#EXTINF:-1 tvg-logo="https://lut.im/nAKOTQRi7f/LsbdLvntn6zXlm9J.png" group-title="CANAL ABERTO", TVE RS 
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://s18.postimg.org/j1yr3lukp/REDE_SUPER.png" group-title="Religiosos",REDE SUPER 
+http://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8
+
+
+
+#CATHOLIC TV
+#EXTINF:-1 tvg-logo="" group-title="DIFERENTE",CATHOLIC TV
+http://catholictvhd-lh.akamaihd.net:80/i/ctvhd_1@88148/index_1_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="DIFERENTE",CATHOLIC TV
+http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/index_1200_av-p.m3u8
+
+#Gospel Cartoon 
+#EXTINF:-1 tvg-logo="" group-title="DIFERENTE",GOSPEL CARTOON
+https://stmv1.srvstm.com/gospelcartoon2/gospelcartoon2/chunklist_w386195634.m3u8
+
+#TV Series
+#EXTINF:-1 tvg-logo="" group-title="DIFERENTE",TV SERIES
+https://stmv1.srvstm.com/tvserie/tvserie/chunklist_w1209030992.m3u8
+
+#PAI ETERNO
+#EXTINF:-1 tvg-logo="" group-title="Religiosos",PAI ETERNO
+https://59f1cbe63db89.streamlock.net:1443/teste01/teste01/chunklist_w1194267697.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="DIFERENTE",MANCHETE
+https://srv5.zcast.com.br/tvmanchete/tvmanchete/chunklist_w313459010.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="DIFERENTE",FILMES CLASSICOS
+http://stmv2.euroti.com.br:1935/classique/classique/chunklist_w1745022209.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="DIFERENTE",MEGA CINE
+https://stmv1.srvif.com/reconsatcine/reconsatcine/chunklist_w809440079.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="DIFERENTE",TV CAMARA
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+
+
+#TV BRASIL
+
+
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/m7orza8x9/TV_Cultura.png" group-title="TV Aberta",TV BRASIL
+http://177.74.1.38/funtelpa/tv_funtelpa/playlist.m3u8
+
+
+
+
+
+
+
+
+#CULTURA
+#REDE TV
+#
+#SBT
+#GLOBO
+#	RECORD
+#	BAND
+#
+#APARECIDA
+#REDE VIDA
+#CANCAO NOVA
+#
+#NOVO TEMPO
+#	GAZETA
+#FUTURA
+
+
+#LOGO
+
+
+#CANCAO NOVA aovivo.gratis
+#EXTINF:-1 tvg-logo="https://goo.gl/63ISSk" group-title="CATOLICO",CANCAO NOVA
+
+
+https://edge-aws.aovivotv.xyz/hls/s:255.255.255.0/cancaonova_c30749cf_1da17fa14c3256a1923f289afa2481ddbaa53ed5/playlist.m3u8
+
+https://edge-aws.aovivotv.xyz/hls/cfedd887-1ba7-40a7-9867-e0a06fd777fe/cancaonova_c30749cf_1da17fa14c3256a1923f289afa2481ddbaa53ed5/playlist.m3u8
+
+https://player.aovivotv.xyz/cfedd887-1ba7-40a7-9867-e0a06fd777fe/cancaonova_c30749cf_1da17fa14c3256a1923f289afa2481ddbaa53ed5/playlist.m3u8
+
+https://player.aovivotv.xyz/channels/hls/cancaonova/cfedd887-1ba7-40a7-9867-e0a06fd777fe/cancaonova_c30749cf_1da17fa14c3256a1923f289afa2481ddbaa53ed5/playlist.m3u8
+
+https://player.aovivotv.xyz/channels/cancaonova_c30749cf_1da17fa14c3256a1923f289afa2481ddbaa53ed5/playlist.m3u8
+
+
+
+https://edge-aws.aovivotv.xyz/hls/s:78.47.27.206/cancaonova_c30749cf_1da17fa14c3256a1923f289afa2481ddbaa53ed5/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiMTg5LjUxLjIyMS4xMjMiO2k6MTtzOjExMzoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODkuMC40Mzg5LjgyIFNhZmFyaS81MzcuMzYiO2k6MjtpOjE2MTY5NTY2MTQ7fQ%3D%3D
+
+
+#Aparecida Ou Musica ou Globo
+#EXTINF:-1 tvg-logo="" group-title="AOVIVO.GRATIS",Aparecida Ou Musica ou Globo
+https://edge-aws.aovivotv.xyz/hls/s:88.198.239.170/globosp_cfe21c68_a6876ea28f535844ebd08bb469362ba27539d6d0/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiMTg5LjUxLjIyMS4xMjMiO2k6MTtzOjExMzoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODkuMC40Mzg5LjgyIFNhZmFyaS81MzcuMzYiO2k6MjtpOjE2MTY5NTI5NDI7fQ%3D%3D
+
+#EXTINF:-1 tvg-logo="" group-title="AOVIVO.GRATIS",NICK
+https://edge-aws.aovivotv.xyz/hls/s:78.46.240.155/nickelodeon_bc33ea4e_383072aec89d6915f45b4258d976ffda873ef0a4/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiMTg5LjUxLjIyMS4xMjMiO2k6MTtzOjExMzoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODkuMC40Mzg5LjgyIFNhZmFyaS81MzcuMzYiO2k6MjtpOjE2MTY5NTMwNTU7fQ%3D%3D
+
+#EXTINF:-1 tvg-logo="" group-title="AOVIVO.GRATIS",CARTOON NETWORK
+https://edge-aws.aovivotv.xyz/hls/s:88.198.239.170/cartoonnetwork_511a418e_ef405a8c703b67fd1a9afdeaafd951375f63a9f5/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiMTg5LjUxLjIyMS4xMjMiO2k6MTtzOjExMzoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODkuMC40Mzg5LjgyIFNhZmFyaS81MzcuMzYiO2k6MjtpOjE2MTY5NTMxNDQ7fQ%3D%3D
+
+
+
+
+#__________________________________________
+
+#GLOBO
+
+#EXTINF:-1 tvg-id="Globo SP" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rede_globo.jpg" group-title="TV Aberta",GLOBO SP RC - CERTO
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/bobosp.m3u8?mu3zAQc9HC3GbwJq=nvpjCUgyJKRFm3RDu_BOcg&3U1G7qaTxrPbalZnEx=1616924266
+
+#EXTINF:-1 tvg-id="Globo SP" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rede_globo.jpg" group-title="TV Aberta",GLOBO 1
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/bobosp.m3u8?mu3zAQc9HC3GbwJq=OI-Tt7ljRZUIdKNBYb_cEw&3U1G7qaTxrPbalZnEx=1616934840
+
+#EXTINF:-1 tvg-id="Globo SP" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rede_globo.jpg" group-title="TV Aberta",GLOBO 2
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/bobosp.m3u8?mu3zAQc9HC3GbwJq=mm3rQnQ1r7duQ7NcgH9PnA&3U1G7qaTxrPbalZnEx=1616934980
+
+#EXTINF:-1 tvg-id="Globo SP" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rede_globo.jpg" group-title="TV Aberta",GLOBO MULTI
+https://cdn.esporteone.com/GLOBOSP/video.m3u8?md5=LPkl6NCvn0OXCHlUf8xTUA&expires=1616960846
+
+#EXTINF:-1 tvg-id="Globo SP" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rede_globo.jpg" group-title="TV Aberta",GLOBO aovivo.gratis
+https://edge-aws.aovivotv.xyz/hls/s:88.198.239.170/globosp_cfe21c68_a6876ea28f535844ebd08bb469362ba27539d6d0/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiMTg5LjUxLjIyMS4xMjMiO2k6MTtzOjExMzoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODkuMC40Mzg5LjgyIFNhZmFyaS81MzcuMzYiO2k6MjtpOjE2MTY5NTI0NTk7fQ%3D%3D
+
+#EXTINF:-1 tvg-id="Globo SP" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rede_globo.jpg" group-title="TV Aberta",GLOBO aovivo.gratis APAGA
+https://edge-aws.aovivotv.xyz/hls/s:88.198.239.170/globosp_cfe21c68_a6876ea28f535844ebd08bb469362ba27539d6d0/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="Globo SP" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rede_globo.jpg" group-title="TV Aberta",GLOBO - github.com/iptv-restream/iptv-channels
+http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
+
+
+
+#----------------------------------------------------
+
+
+Also you can instead use one of these playlists:
+
+https://iptv-org.github.io/iptv/index.country.m3u (grouped by country)
+https://iptv-org.github.io/iptv/index.category.m3u (grouped by category)
+https://iptv-org.github.io/iptv/index.language.m3u (grouped by language)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
