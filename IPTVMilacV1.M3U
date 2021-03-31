@@ -1,15 +1,7 @@
 ﻿#EXTM3U
 
 #GLOBO
-#EXTINF:-1 tvg-id="Globo SP" tvg-logo="https://www.vhv.rs/dpng/d/16-165769_rede-globo-hd-png-download.png" group-title="TV Aberta",GLOBO RJ 1
-http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8?VEIO-DO-github/iptv-restream/iptv-channels
-
-#GLOBO
-#EXTINF:-1 tvg-id="Globo SP" tvg-logo="https://i.imgur.com/AQOl8Bf.png" group-title="TV Aberta",GLOBO RJ 2
-http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8?VEIO-DO-github/iptv-restream/iptv-channels
-
-#GLOBO
-#EXTINF:-1 tvg-id="Globo SP" tvg-logo="https://i.imgur.com/rvTYSEW.jpg" group-title="TV Aberta",GLOBO RJ 3
+#EXTINF:-1 tvg-id="Globo SP" tvg-logo="https://i.imgur.com/AQOl8Bf.png" group-title="TV Aberta",GLOBO RJ
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8?VEIO-DO-github/iptv-restream/iptv-channels
 
 #SBT PE
@@ -24,7 +16,7 @@ https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w2067742926_b216000_sleng.m3
 https://stmv1.transmissaodigital.com/cidadeverde/cidadeverde/chunklist_w652992864.m3u8
 
 #BAND
-#EXTINF:-1 tvg-id="Band" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/band_sao_paulo.jpg" group-title="TV Aberta",BAND
+#EXTINF:-1 tvg-id="Band" tvg-logo="https://cdn.imgbin.com/5/11/23/imgbin-brazil-band-television-channel-band-mzLagxYRxFQN5dGRCrA2gpFie.jpg" group-title="TV Aberta",BAND
 http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
 
 #RECORD
@@ -198,3 +190,5 @@ https://ia800500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_39.mp
 #https://iptv-org.github.io/iptv/index.country.m3u (grouped by country)
 #https://iptv-org.github.io/iptv/index.category.m3u (grouped by category)
 #https://iptv-org.github.io/iptv/index.language.m3u (grouped by language)
+
+
