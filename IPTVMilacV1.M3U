@@ -172,3 +172,18 @@ https://ia800500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_39.mp
 #https://iptv-org.github.io/iptv/index.country.m3u (grouped by country)
 #https://iptv-org.github.io/iptv/index.category.m3u (grouped by category)
 #https://iptv-org.github.io/iptv/index.language.m3u (grouped by language)
+
+#GLOBO
+#EXTINF:-1 tvg-id="Globo SP" tvg-logo="https://www.vhv.rs/dpng/d/16-165769_rede-globo-hd-png-download.png" group-title="TV Aberta",GLOBO RJ
+http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8?VEIO-DO-github/iptv-restream/iptv-channels
+
+#GLOBO
+#EXTINF:-1 tvg-id="Globo SP" tvg-logo="https://i.imgur.com/AQOl8Bf.png" group-title="TV Aberta",GLOBO RJ
+http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8?VEIO-DO-github/iptv-restream/iptv-channels
+
+#GLOBO
+#EXTINF:-1 tvg-id="Globo SP" tvg-logo="https://i.imgur.com/rvTYSEW.jpg" group-title="TV Aberta",GLOBO RJ
+http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8?VEIO-DO-github/iptv-restream/iptv-channels
+
+
+
