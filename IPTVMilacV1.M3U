@@ -1,7 +1,15 @@
 #EXTM3U
 
 #GLOBO
-#EXTINF:-1 tvg-id="Globo SP" tvg-logo="https://www.vhv.rs/dpng/d/16-165769_rede-globo-hd-png-download.png" group-title="TV Aberta",GLOBO RJ
+#EXTINF:-1 tvg-id="Globo SP" tvg-logo="https://www.vhv.rs/dpng/d/16-165769_rede-globo-hd-png-download.png" group-title="TV Aberta",GLOBO RJ 1
+http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8?VEIO-DO-github/iptv-restream/iptv-channels
+
+#GLOBO
+#EXTINF:-1 tvg-id="Globo SP" tvg-logo="https://i.imgur.com/AQOl8Bf.png" group-title="TV Aberta",GLOBO RJ 2
+http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8?VEIO-DO-github/iptv-restream/iptv-channels
+
+#GLOBO
+#EXTINF:-1 tvg-id="Globo SP" tvg-logo="https://i.imgur.com/rvTYSEW.jpg" group-title="TV Aberta",GLOBO RJ 3
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8?VEIO-DO-github/iptv-restream/iptv-channels
 
 #SBT PE
@@ -95,30 +103,41 @@ https://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebc
 
 #Rede Brasil DE
 
+
 #EXTINF:-1 tvg-id="Rede Brasil" tvg-logo="http://i.imgur.com/uwzYiHs.png" group-title="TV Aberta",Rede Brasil DE
 
 http://rbc.directradios.com:1935/rbc/smil:rbc.smil/playlist.m3u8
 
 #DIARIO DO SERTÃO 
 
+
 #EXTINF:-1 tvg-logo="http://s11.postimg.org/l4gjn0o4j/TV_Di_rio_do_Sert_o.png" group-title="TV Aberta",TV DIARIO DO SERTÃO
 
 http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
+
+
 
 #TV PARANA
 
 #EXTINF:-1 tvg-logo="http://s16.postimg.org/axul05l4l/TV_Paran.jpg" group-title="TV Aberta",TV PARANA
 http://200.189.113.201/hls/tve.m3u8
 
+
+
 #TVE RS 
+
 
 #EXTINF:-1 tvg-logo="https://lut.im/nAKOTQRi7f/LsbdLvntn6zXlm9J.png" group-title="CANAL ABERTO", TVE RS
 
 http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
 
+
+
 #EXTINF:-1 tvg-logo="http://s18.postimg.org/j1yr3lukp/REDE_SUPER.png" group-title="Religiosos",REDE SUPER
 
 http://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8
+
+
 
 #CATHOLIC TV
 #EXTINF:-1 tvg-logo="" group-title="DIFERENTE",CATHOLIC TV
@@ -152,18 +171,25 @@ https://stmv1.srvif.com/reconsatcine/reconsatcine/chunklist_w809440079.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DIFERENTE",TV CAMARA
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 
+
 #TV BRASIL
+
+
 
 #EXTINF:-1 tvg-logo="http://s20.postimg.org/m7orza8x9/TV_Cultura.png" group-title="TV Aberta",TV BRASIL
 http://177.74.1.38/funtelpa/tv_funtelpa/playlist.m3u8
+
+
 
 #LOGO
 
 #CANCAO NOVA aovivo.gratis
 #EXTINF:-1 tvg-logo="https://goo.gl/63ISSk" group-title="CATOLICO",CANCAO NOVA
 
+
 #EXTINF:-1´type="video" tvg-logo="LOGOTIPO-DOCANAL" group-title="FILMES" pltv-subgroup="COMEDIA",Nome do Episodio
 https://ia800500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_39.mp4
+
 
 #----------------------------------------------------
 
@@ -172,18 +198,3 @@ https://ia800500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_39.mp
 #https://iptv-org.github.io/iptv/index.country.m3u (grouped by country)
 #https://iptv-org.github.io/iptv/index.category.m3u (grouped by category)
 #https://iptv-org.github.io/iptv/index.language.m3u (grouped by language)
-
-#GLOBO
-#EXTINF:-1 tvg-id="Globo SP" tvg-logo="https://www.vhv.rs/dpng/d/16-165769_rede-globo-hd-png-download.png" group-title="TV Aberta",GLOBO RJ
-http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8?VEIO-DO-github/iptv-restream/iptv-channels
-
-#GLOBO
-#EXTINF:-1 tvg-id="Globo SP" tvg-logo="https://i.imgur.com/AQOl8Bf.png" group-title="TV Aberta",GLOBO RJ
-http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8?VEIO-DO-github/iptv-restream/iptv-channels
-
-#GLOBO
-#EXTINF:-1 tvg-id="Globo SP" tvg-logo="https://i.imgur.com/rvTYSEW.jpg" group-title="TV Aberta",GLOBO RJ
-http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8?VEIO-DO-github/iptv-restream/iptv-channels
-
-
-
