@@ -16,7 +16,7 @@ https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w2067742926_b216000_sleng.m3
 https://stmv1.transmissaodigital.com/cidadeverde/cidadeverde/chunklist_w652992864.m3u8
 
 #BAND
-#EXTINF:-1 tvg-id="Band" tvg-logo="https://cdn.imgbin.com/5/11/23/imgbin-brazil-band-television-channel-band-mzLagxYRxFQN5dGRCrA2gpFie.jpg" group-title="TV Aberta",BAND
+#EXTINF:-1 tvg-id="Band" tvg-logo="https://seeklogo.com/images/B/Band-logo-5FE1E5A27F-seeklogo.com.png" group-title="TV Aberta",BAND
 http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
 
 #RECORD
@@ -183,6 +183,69 @@ http://177.74.1.38/funtelpa/tv_funtelpa/playlist.m3u8
 https://ia800500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_39.mp4
 
 
+
+#NOVOS
+
+
+#EXTINF:0 group-title="CHILE" tvg-logo="http://www.carolina.cl/carolina-tv/img/ogimage.png",Carolina TV
+http://unlimited1-us.dps.live/carolinatv/carolinatv.smil/playlist.m3u8?IMDSFULL
+
+#EXTINF:0 group-title="FONTE 1" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Alpha SP
+https://ice.fabricahost.com.br/alphafm1017?compat=1
+
+#EXTINF:0 group-title="FONTE 1" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Music Top
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?IMDSFULL
+
+#EXTINF:0 group-title="FONTE 1" tvg-logo="https://i.imgur.com/R8qQGoZ.png",M2O
+https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?IMDSFULL
+
+#EXTINF:0 group-title="FONTE 1" tvg-logo="https://i.imgur.com/R8qQGoZ.png",CBN SP
+https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8?IMDSFULL
+
+#EXTINF:0 group-title="FONTE 1" tvg-logo="https://i.imgur.com/R8qQGoZ.png",RETRO MUSIC HD**
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8?IMDSFULL
+
+#EXTINF:0 group-title="FONTE 1" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Retrô TV
+http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist.m3u8?IMDSFULL
+
+#EXTINF:0 group-title="FONTE 1" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Novo Tempo
+http://stream.novotempo.com:1935/tv/smil:TvNovoTempoCom.smil/playlist.m3u8?IMDSFULL
+
+#EXTINF:0 group-title="FONTE 1" tvg-logo="https://i.imgur.com/R8qQGoZ.png",TV Itararé - Cultura (PB)
+https://peertube.co.uk/static/webseed/282aed3b-eec5-4a3e-9e4d-170e0eef8235-720.mp4?IMDSFULL
+
+#EXTINF:0 group-title="FONTE 1" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Radio HITS
+https://peertube.co.uk/static/webseed/282aed3b-eec5-4a3e-9e4d-170e0eef8235-720.mp4?IMDSFULL
+
+#EXTINF:0 group-title="FONTE 1" tvg-logo="https://i.imgur.com/R8qQGoZ.png",TVE Bahia
+http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8?IMDSFULL
+
+#EXTINF:0 group-title="FONTE 1" tvg-logo="https://i.imgur.com/R8qQGoZ.png",TV Câmara
+https://stream3.camara.gov.br/tv1/manifest.m3u8?IMDSFULL
+
+#EXTINF:0 group-title="NOVA FONTE CANAIS" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Record News
+https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8?IMDSFULL
+
+#EXTINF:0 group-title="NOVA FONTE CANAIS" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Record News - TV Guará (MA)
+https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/chunklist.m3u8?IMDSFULL
+
+#EXTINF:0 group-title="NOVA FONTE CANAIS" tvg-logo="https://i.imgur.com/R8qQGoZ.png",KURIAKOS KIDS
+http://c2.manasat.com:1935/kkids/kkids2/TeamBlue.m3u8?IMDSFULL
+
+#EXTINF:0 group-title="NOVA FONTE CANAIS" tvg-logo="https://i.imgur.com/R8qQGoZ.png",TV Educativa de Porto Alegre
+http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8?IMDSFULL
+
+#EXTINF:0 group-title="NOVA FONTE CANAIS" tvg-logo="https://i.imgur.com/R8qQGoZ.png",RT Documentary Channel
+https://rt-doc.secure.footprint.net/1101_1600Kb.m3u8?IMDSFULL
+
+#EXTINF:0 group-title="NOVA FONTE CANAIS" tvg-logo="https://i.imgur.com/R8qQGoZ.png",TVídeoNews
+https://59f2354c05961.streamlock.net:1443/tvideonews/_definst_/tvideonews/chunklist.m3u8?IMDSFULL
+
+#EXTINF:0 group-title="NOVA FONTE CANAIS" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Loading
+https://akamai.gcp.br.cdn.booyah.live/hls/151073/34850987_1080.m3u8
+
+
+
 #----------------------------------------------------
 
 #Also you can instead use one of these playlists:
@@ -190,5 +253,47 @@ https://ia800500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_39.mp
 #https://iptv-org.github.io/iptv/index.country.m3u (grouped by country)
 #https://iptv-org.github.io/iptv/index.category.m3u (grouped by category)
 #https://iptv-org.github.io/iptv/index.language.m3u (grouped by language)
+
+
+
+
+#RECORD VARIOS
+
+#EXTINF:0 group-title="FONTE 1" tvg-logo="https://i.imgur.com/R8qQGoZ.png",TV Diário do Sertão
+http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8?IMDSFULL
+#EXTINF:0 group-title="FONTE 1" tvg-logo="https://i.imgur.com/R8qQGoZ.png",TV DIÁRIO DO SERTÃO [PB]
+http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/live.m3u8?IMDSFULL
+#EXTINF:0 group-title="FONTE 1" tvg-logo="https://i.imgur.com/R8qQGoZ.png",RecordTV Belo Horizonte
+https://playplusbh-lh.akamaihd.net/i/pp_bh@377862/master.m3u8?IMDSFULL
+#EXTINF:0 group-title="FONTE 1" tvg-logo="https://i.imgur.com/R8qQGoZ.png",RecordTV Distrito Federal
+https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/master.m3u8?IMDSFULL
+#EXTINF:0 group-title="FONTE 1" tvg-logo="https://i.imgur.com/R8qQGoZ.png",RecordTV Goiás
+https://playplusgoya-lh.akamaihd.net/i/pp_gna@377833/master.m3u8?IMDSFULL
+#EXTINF:0 group-title="FONTE 1" tvg-logo="https://i.imgur.com/R8qQGoZ.png",RecordTV Manaus
+https://playplusmao-lh.akamaihd.net/i/pp_mao@409195/master.m3u8?IMDSFULL
+#EXTINF:0 group-title="FONTE 1" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Record News
+https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8?IMDSFULL
+#EXTINF:0 group-title="FONTE 1" tvg-logo="https://i.imgur.com/R8qQGoZ.png",RecordTV Pará
+https://playpluspa-lh.akamaihd.net/i/pp_pa@377468/master.m3u8?IMDSFULL
+#EXTINF:0 group-title="FONTE 1" tvg-logo="https://i.imgur.com/R8qQGoZ.png",RecordTV Rio Grande do Sul
+https://playpluspoa-lh.akamaihd.net/i/pp_poa@377864/master.m3u8?IMDSFULL
+#EXTINF:0 group-title="FONTE 1" tvg-logo="https://i.imgur.com/R8qQGoZ.png",RecordTV Rio de Janeiro
+https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/master.m3u8?IMDSFULL
+#EXTINF:0 group-title="FONTE 1" tvg-logo="https://i.imgur.com/R8qQGoZ.png",RecordTV Bahia
+https://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/master.m3u8?IMDSFULL
+#EXTINF:0 group-title="FONTE 1" tvg-logo="https://i.imgur.com/R8qQGoZ.png",RecordTV
+https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8?IMDSFULL
+
+
+
+
+
+
+
+
+
+
+
+
 
 
