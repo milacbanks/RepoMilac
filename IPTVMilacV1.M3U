@@ -290,14 +290,14 @@ https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs3/vintequatrohrs
 #EXTINF:-1 tvg-logo="https://futebolplayhd.com/imagens-futebol/a871af6c1cd17cf8c44a2a62a244b689.jpg" group-title="SPORT" pltv-subgroup="SPORT TV", SPORT TV 1
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_2000/index.m3u8
 
-#EXTINF:-1 SPORT TV 2
+#EXTINF:-1 tvg-logo="https://futebolplayhd.com/imagens-futebol/a871af6c1cd17cf8c44a2a62a244b689.jpg" group-title="SPORT" pltv-subgroup="SPORT TV", SPORT TV 2
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes1/esportes1_2000/index.m3u8
-#EXTINF:-1 BBB 24
+#EXTINF:-1 tvg-logo="https://futebolplayhd.com/imagens-futebol/a871af6c1cd17cf8c44a2a62a244b689.jpg" group-title="SPORT" pltv-subgroup="SPORT TV", BBB Ver
 https://newedge.eu-central-1.edge.mycdn.live/live/bbb24hras/bbb24hras_2000/index.m3u8
-#EXTINF:-1 kkkk
+#EXTINF:-1 tvg-logo="https://futebolplayhd.com/imagens-futebol/a871af6c1cd17cf8c44a2a62a244b689.jpg" group-title="SPORT" pltv-subgroup="SPORT TV", KKKKK
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_2000/index.m3u8
-#EXTINF:-1 Esporte
+#EXTINF:-1 tvg-logo="https://futebolplayhd.com/imagens-futebol/a871af6c1cd17cf8c44a2a62a244b689.jpg" group-title="SPORT" pltv-subgroup="SPORT TV", SPORT 3
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/esportes10_2000/index.m3u8
-#EXTINF:-1 Esporte2
+#EXTINF:-1 tvg-logo="https://futebolplayhd.com/imagens-futebol/a871af6c1cd17cf8c44a2a62a244b689.jpg" group-title="SPORT" pltv-subgroup="SPORT TV", SPORT 4
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes1/esportes1_2000/index.m3u8
 
