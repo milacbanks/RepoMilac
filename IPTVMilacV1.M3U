@@ -54,7 +54,7 @@ https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b2128000.
 #EXTINF:-1 tvg-logo="https://goo.gl/H4GFo1" group-title="RELIGIOSO", REDE VIDA 3
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3h0NfTr" group-title="RELIGIOSO", Aparecida
+#EXTINF:-1 tvg-logo="https://bit.ly/3h0NfTr" group-title="RELIGIOSO", APARECIDA
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/chunklist.m3u8
 
 #GAZETA
@@ -303,17 +303,9 @@ https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/esportes10_2000/index.m3u8
 #EXTINF:-1 tvg-logo="https://futebolplayhd.com/imagens-futebol/a871af6c1cd17cf8c44a2a62a244b689.jpg" group-title="SPORT" pltv-subgroup="SPORT TV", SPORT 4
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes1/esportes1_2000/index.m3u8
-
-
-#________________________________________________________________
-
-#ATUALIZAÇÃO JUN 2021
-
+#EXTINF:0 group-title="JUNHO 2021"
 #EXTINF:0 group-title="JUNHO 2021" tvg-logo="https://i.imgur.com/R8qQGoZ.png",WARNER RC
 https://m3u9.ml/a/hls1/warner.m3u8?mu3zAQc9HC3GbwJq=J00w-BktmWaD4ve2Wwzqhg&3U1G7qaTxrPbalZnEx=1624623409
-
-
-
 #EXTINF:-1 group-title="Loading",Loading FHD
 https://akamai2-br.cdn.booyah.live/hls/1000029/34850987_1080.m3u8
 #EXTINF:-1 group-title="Loading",Loading HD
@@ -720,7 +712,3 @@ https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
 https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Gr7Qoyw.jpg" group-title="O ELO PERDIDO" pltv-subgroup="1ª TEMPORADA",1X01 Cha Ka
 https://ia802801.us.archive.org/15/items/kaca_Elo/Elo%20Perdido%20Epis%C3%B3dio%2001%20Cha%20Ka.mp4
-
-
-
-
