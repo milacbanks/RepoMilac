@@ -303,19 +303,12 @@ https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/esportes10_2000/index.m3u8
 #EXTINF:-1 tvg-logo="https://futebolplayhd.com/imagens-futebol/a871af6c1cd17cf8c44a2a62a244b689.jpg" group-title="SPORT" pltv-subgroup="SPORT TV", SPORT 4
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes1/esportes1_2000/index.m3u8
+
+
+
 #EXTINF:0 group-title="JUNHO 2021"
-#EXTINF:0 group-title="JUNHO 2021" tvg-logo="https://i.imgur.com/R8qQGoZ.png",WARNER RC
-https://m3u9.ml/a/hls1/warner.m3u8?mu3zAQc9HC3GbwJq=J00w-BktmWaD4ve2Wwzqhg&3U1G7qaTxrPbalZnEx=1624623409
-#EXTINF:-1 group-title="Loading",Loading FHD
-https://akamai2-br.cdn.booyah.live/hls/1000029/34850987_1080.m3u8
-#EXTINF:-1 group-title="Loading",Loading HD
-https://akamai2-br.cdn.booyah.live/hls/1000029/34850987_720.m3u8
-#EXTINF:-1 group-title="Loading",Loading SD
-https://akamai2-br.cdn.booyah.live/hls/1000029/34850987_480.m3u8
-#EXTINF:-1 group-title="Loading",Loading 360P
-https://akamai2-br.cdn.booyah.live/hls/1000029/34850987_360.m3u8
-#EXTINF:-1 group-title="Loading",Loading 240P
-https://akamai2-br.cdn.booyah.live/hls/1000029/34850987_240.m3u8
+
+
 #EXTINF:-1 group-title="Variedades",Better Life
 http://uni5rtmp.tulix.tv:1935/bettervida/bettervida/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/mundo.png" group-title="Variedades",WOW Tv
@@ -678,6 +671,7 @@ https://stmv1.livevoxtv.com.br/tvhits/tvhits/playlist.m3u8
 https://59f2354c05961.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/theretrofb.jpg" group-title="Música", The Retro Channel
 https://5df3045a6b70e.streamlock.net/theretrochannel/stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tv_evangelizar.png" group-title="Religioso",TV Evangelizar
 https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/cancaonova.png" group-title="Religioso",Canção Nova
@@ -702,6 +696,7 @@ https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8
 https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/ewtn.png" group-title="Religioso",EWTN
 https://dyo5cp96eopax.cloudfront.net/p/CANE.m3u8
+
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/fm-o-dia-foto.jpg" group-title="Rádio",FM O DIA 100.5 - ESTÚDIO AO VIVO
 http://c2901-slbps-sambavideos.akamaized.net/radio/FMoDiaAudio_14d480346fa04ebcb4f03173f2dae707/livestream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/9f41c575-ceca-4863-89e7-85e1628fab94.png" group-title="Rádio",98 Live
@@ -710,5 +705,3 @@ https://cdn.jmvstream.com/w/LVW-8202/ngrp:LVW8202_WXoGmOx1th_all/chunklist.m3u8
 https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/CBN_logo.svg.png" group-title="Rádio",CBN RJ
 https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Gr7Qoyw.jpg" group-title="O ELO PERDIDO" pltv-subgroup="1ª TEMPORADA",1X01 Cha Ka
-https://ia802801.us.archive.org/15/items/kaca_Elo/Elo%20Perdido%20Epis%C3%B3dio%2001%20Cha%20Ka.mp4
