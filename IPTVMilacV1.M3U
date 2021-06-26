@@ -705,3 +705,17 @@ https://cdn.jmvstream.com/w/LVW-8202/ngrp:LVW8202_WXoGmOx1th_all/chunklist.m3u8
 https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/CBN_logo.svg.png" group-title="Rádio",CBN RJ
 https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
+
+#MUSIC
+
+#EXTINF:-1 group-title="MUSIC TV" tvg-logo="" tvg-name=""radio=true,1 Music Channel
+https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/chunklist_w591448565.m3u8
+#EXTINF:-1 group-title="MUSIC TV" tvg-logo="" tvg-name=""radio=true,Portal FoxMix
+https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/chunklist_w127201282.m3u8
+#EXTINF:-1 group-title="MUSIC TV" tvg-logo="" tvg-name=""radio=true,NRG 91 Music
+http://tv.nrg91.gr:1935/onweb/live/chunklist_w142468864.m3u8
+#EXTINF:-1 group-title="MUSIC TV" tvg-logo="" tvg-name=""radio=true,Magic TV
+https://itv.streams.ovh/magictv/magictv/chunklist_w561557444.m3u8
+#EXTINF:-1 group-title="MUSIC TV" tvg-logo="" tvg-name=""radio=true,Deejay TV
+https://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-b.m3u8?sd=10&rebase=on
+
