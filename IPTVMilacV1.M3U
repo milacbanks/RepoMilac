@@ -1,7 +1,7 @@
 #EXTM3U
 
 #GLOBO
-#EXTINF:-1 tvg-id="Globo SP" tvg-logo="https://i.imgur.com/AQOl8Bf.png" group-title="TV Aberta",GLOBO RJ
+#EXTINF:-1 tvg-id="Globo RJ" tvg-logo="https://i.imgur.com/AQOl8Bf.png" group-title="TV Aberta",GLOBO RJ
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8?VEIO-DO-github/iptv-restream/iptv-channels
 
 #SBT PE
