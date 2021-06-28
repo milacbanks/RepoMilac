@@ -5,7 +5,7 @@
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8?VEIO-DO-github/iptv-restream/iptv-channels
 
 #SBT PE
-#EXTINF:-1 tvg-id="SBT" tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="TV Aberta",SBT HD PE
+#EXTINF:-1 tvg-id="COD-EPG" tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="TV Aberta",SBT HD PE
 http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
 
 #SBT PI
@@ -13,7 +13,7 @@ http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist
 https://stmv1.transmissaodigital.com/cidadeverde/cidadeverde/chunklist_w652992864.m3u8
 
 #SBT SP
-#EXTINF:-1 tvg-id="SBT" tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="TV Aberta",SBT SP
+#EXTINF:-1 tvg-id="COD-EPG" tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="TV Aberta",SBT SP
 https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w2067742926_b216000_sleng.m3u8
 
 #MTV
