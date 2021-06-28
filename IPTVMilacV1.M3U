@@ -1,5 +1,9 @@
 #EXTM3U x-tvg-url="http://bit.ly/2epgPlexIptvBr"
 
+#CULTURA CATV
+#EXTINF:-1 tvg-id="Cultura" tvg-logo="https://seeklogo.com/images/T/tv-cultura-logo-8043A38965-seeklogo.com.png" group-title="TV Aberta",TV Cultura
+http://wowza4.catve.com.br:1935/live/livestream/chunklist_w1766700799.m3u8
+
 #GLOBO
 #EXTINF:-1 tvg-id="Globo RJ" tvg-logo="https://i.imgur.com/AQOl8Bf.png" group-title="TV Aberta",GLOBO RJ
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8?VEIO-DO-github/iptv-restream/iptv-channels
@@ -33,10 +37,6 @@ https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_360_av-p.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="CANAL ABERTO",RECORD RJ
 https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-b.m3u8
-
-#CULTURA CATV
-#EXTINF:-1 tvg-id="TV Cultura" tvg-logo="https://seeklogo.com/images/T/tv-cultura-logo-8043A38965-seeklogo.com.png" group-title="TV Aberta",TV Cultura
-http://wowza4.catve.com.br:1935/live/livestream/chunklist_w1766700799.m3u8
 
 #REDE TV PB
 
