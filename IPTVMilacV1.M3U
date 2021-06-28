@@ -1,36 +1,53 @@
-#EXTM3U x-tvg-url="http://bit.ly/2epgPlexIptvBr"
+#EXTM3U x-tvg-url="https://bit.ly/MilacRhaEPG"
 
-#CULTURA CATV
-#EXTINF:-1 tvg-id="Cultura" tvg-logo="https://seeklogo.com/images/T/tv-cultura-logo-8043A38965-seeklogo.com.png" group-title="TV Aberta",Cultura CATV
-http://wowza4.catve.com.br:1935/live/livestream/chunklist_w1766700799.m3u8
+# Site do EPG - https://cld.pt/dl/download/7a36f027-b90a-4be0-ba89-00acb7d82fa7/RHAEPG.xml
+# Site pra pegar LOGO - http://www.tv-logo.com/page/brazil /// https://logodownload.org/
 
 #GLOBO
-#EXTINF:-1 tvg-id="Globo RJ" tvg-logo="https://i.imgur.com/AQOl8Bf.png" group-title="TV Aberta",GLOBO RJ
-http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8?VEIO-DO-github/iptv-restream/iptv-channels
-
-#SBT PE
-#EXTINF:-1 tvg-id="SBT" tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="TV Aberta",SBT HD PE
-http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AQOl8Bf.png" group-title="TV Aberta",GLOBO RJ
+http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
 
 #SBT PI 3BR
-#EXTINF:-1 tvg-id="SBT" tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="TV Aberta",SBT PI
+#EXTINF:-1 tvg-id="SBT" tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="TV Aberta",SBT
 https://stmv1.transmissaodigital.com/cidadeverde/cidadeverde/chunklist_w652992864.m3u8
 
-#SBT SP
-#EXTINF:-1 tvg-id="SBT" tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="TV Aberta",SBT
-https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w2067742926_b216000_sleng.m3u8
-
-#MTV
-#EXTINF:-1 tvg-id="MTV" tvg-logo="http://xxxxx" group-title="TV Aberta",MTV
-http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-p.m3u8?sd=10&rebase=on
-
 #BAND
-#EXTINF:-1 tvg-id="Band" tvg-logo="https://seeklogo.com/images/B/Band-logo-5FE1E5A27F-seeklogo.com.png" group-title="TV Aberta",BAND
+#EXTINF:-1 tvg-id="Band" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-1.png" group-title="TV Aberta",BAND
 http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
 
 #RECORD SP
 #EXTINF:-1 tvg-id="RecordTV" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Aberta",RecordTV
 https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
+
+#REDE TV
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/redetv-logo.png" group-title="TV Aberta",RedeTV
+https://hls.brasilstream.com.br/live/redetves/redetves/mono.m3u8
+
+#CULTURA CATV
+#EXTINF:-1 tvg-id="TV Cultura" tvg-logo="https://seeklogo.com/images/T/tv-cultura-logo-8043A38965-seeklogo.com.png" group-title="TV Aberta",TV Cultura
+http://wowza4.catve.com.br:1935/live/livestream/chunklist_w1766700799.m3u8
+
+#EXTINF:-1 tvg-id="TV Aparecida" tvg-logo="https://listaiptv.gratis/logos/imagens/2018091805332321logotipo_da_tv_aparecida.png" group-title="TV Aberta",TV Aparecida
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/chunklist.m3u8
+
+#REDE VIDA
+#EXTINF:-1 tvg-logo="https://goo.gl/H4GFo1" group-title="TV Aberta", REDE VIDA
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b2128000.m3u8
+
+#______________________________________
+
+#SBT SP
+#EXTINF:-1 tvg-id="SBT" tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="TV Aberta",SBT SP
+https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w2067742926_b216000_sleng.m3u8
+
+#SBT PE
+#EXTINF:-1 tvg-id="SBT" tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="TV Aberta",SBT PE
+http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
+
+#MTV
+#EXTINF:-1 tvg-id="MTV" tvg-logo="http://xxxxx" group-title="TV Aberta",MTV
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-p.m3u8?sd=10&rebase=on
+
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="CANAL ABERTO",RECORD SP 2
 https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_360_av-p.m3u8
@@ -43,8 +60,8 @@ https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-b.m3u8
 #EXTINF:-1 tvg-id="RedeTV" tvg-logo="https://i.imgur.com/MEBQV6z.png" group-title="TV Aberta",REDETV
 https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/chunklist_w68693802_b2933347.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MEBQV6z.png" group-title="TV Aberta",REDE TV SP ?
-https://hls.brasilstream.com.br/live/redetves/redetves/mono.m3u8?token=6410329353875642000
+
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MEBQV6z.png" group-title="CANAL ABERTO",REDE TV 3br.tv
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/chunklist_w188855886.m3u8
@@ -52,16 +69,8 @@ https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/chunklist_w1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MEBQV6z.png" group-title="CANAL ABERTO",REDE TV 3br.tv 2
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/chunklist_w1109556622.m3u8
 
-#REDE VIDA
-#EXTINF:-1 tvg-logo="https://goo.gl/H4GFo1" group-title="RELIGIOSO", REDE VIDA 2
-https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b2128000.m3u8
-
 #EXTINF:-1 tvg-logo="https://goo.gl/H4GFo1" group-title="RELIGIOSO", REDE VIDA 3
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TV Aparecida" tvg-logo="https://bit.ly/3h0NfTr" group-title="RELIGIOSO",TV Aparecida
-https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/chunklist.m3u8
-
 
 #GAZETA
 
@@ -724,4 +733,3 @@ http://tv.nrg91.gr:1935/onweb/live/chunklist_w142468864.m3u8
 https://itv.streams.ovh/magictv/magictv/chunklist_w561557444.m3u8
 #EXTINF:-1 group-title="MUSIC TV" tvg-logo="" tvg-name=""radio=true,Deejay TV
 https://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-b.m3u8?sd=10&rebase=on
-
