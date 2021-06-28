@@ -35,12 +35,12 @@ https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_360_av-p.m3u8
 https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-b.m3u8
 
 #CULTURA CATV
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tv-cultura-logo-8043A38965-seeklogo.com.png" group-title="TV Aberta",CULTURA
+#EXTINF:-1 tvg-id="TV Cultura" tvg-logo="https://seeklogo.com/images/T/tv-cultura-logo-8043A38965-seeklogo.com.png" group-title="TV Aberta",TV Cultura
 http://wowza4.catve.com.br:1935/live/livestream/chunklist_w1766700799.m3u8
 
 #REDE TV PB
 
-#EXTINF:-1 tvg-id="RedeTV" tvg-logo="https://i.imgur.com/MEBQV6z.png" group-title="TV Aberta",REDE TV
+#EXTINF:-1 tvg-id="RedeTV" tvg-logo="https://i.imgur.com/MEBQV6z.png" group-title="TV Aberta",REDETV
 https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/chunklist_w68693802_b2933347.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MEBQV6z.png" group-title="TV Aberta",REDE TV SP ?
