@@ -59,8 +59,9 @@ https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b2128000.
 #EXTINF:-1 tvg-logo="https://goo.gl/H4GFo1" group-title="RELIGIOSO", REDE VIDA 3
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3h0NfTr" group-title="RELIGIOSO", APARECIDA
+#EXTINF:-1 tvg-id="TV Aparecida" tvg-logo="https://bit.ly/3h0NfTr" group-title="RELIGIOSO",TV Aparecida
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/chunklist.m3u8
+
 
 #GAZETA
 
