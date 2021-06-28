@@ -13,7 +13,7 @@ http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1n
 http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
 
 #SBT PI 3BR
-#EXTINF:-1 tvg-id="SBT" tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="TV Aberta",SBT
+#EXTINF:-1 tvg-id="SBT" tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="TV Aberta",SBT PI
 https://stmv1.transmissaodigital.com/cidadeverde/cidadeverde/chunklist_w652992864.m3u8
 
 #SBT SP
