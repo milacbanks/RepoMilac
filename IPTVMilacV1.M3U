@@ -8,16 +8,16 @@ http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1n
 #EXTINF:-1 tvg-id="COD-EPG" tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="TV Aberta",SBT HD PE
 http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
 
-#SBT PI
-#EXTINF:-1 tvg-id="SBT" tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="TV Aberta",SBT FULL PI
+#SBT PI 3BR
+#EXTINF:-1 tvg-id="SBT" tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="TV Aberta",SBT
 https://stmv1.transmissaodigital.com/cidadeverde/cidadeverde/chunklist_w652992864.m3u8
 
 #SBT SP
-#EXTINF:-1 tvg-id="COD-EPG" tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="TV Aberta",SBT SP
+#EXTINF:-1 tvg-id="SBT" tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="TV Aberta",SBT
 https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w2067742926_b216000_sleng.m3u8
 
 #MTV
-#EXTINF:-1 tvg-id="MTV" tvg-logo="http://xxxxx" group-title="TV Aberta",MTV 3BR
+#EXTINF:-1 tvg-id="MTV" tvg-logo="http://xxxxx" group-title="TV Aberta",MTV
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-p.m3u8?sd=10&rebase=on
 
 #BAND
