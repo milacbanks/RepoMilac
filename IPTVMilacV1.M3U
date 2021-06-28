@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="http://bit.ly/2epgPlexIptvBr"
 
 #CULTURA CATV
-#EXTINF:-1 tvg-id="Cultura" tvg-logo="https://seeklogo.com/images/T/tv-cultura-logo-8043A38965-seeklogo.com.png" group-title="TV Aberta",TV Cultura
+#EXTINF:-1 tvg-id="Cultura" tvg-logo="https://seeklogo.com/images/T/tv-cultura-logo-8043A38965-seeklogo.com.png" group-title="TV Aberta",Cultura CATV
 http://wowza4.catve.com.br:1935/live/livestream/chunklist_w1766700799.m3u8
 
 #GLOBO
