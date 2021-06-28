@@ -24,8 +24,8 @@ http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-p.m3u8?sd=10&
 #EXTINF:-1 tvg-id="Band" tvg-logo="https://seeklogo.com/images/B/Band-logo-5FE1E5A27F-seeklogo.com.png" group-title="TV Aberta",BAND
 http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
 
-#RECORD
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Aberta",RECORD SP 1
+#RECORD SP
+#EXTINF:-1 tvg-id="RecordTV" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Aberta",RecordTV
 https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="CANAL ABERTO",RECORD SP 2
@@ -40,7 +40,7 @@ http://wowza4.catve.com.br:1935/live/livestream/chunklist_w1766700799.m3u8
 
 #REDE TV PB
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MEBQV6z.png" group-title="TV Aberta",REDE TV
+#EXTINF:-1 tvg-id="RedeTV" tvg-logo="https://i.imgur.com/MEBQV6z.png" group-title="TV Aberta",REDE TV
 https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/chunklist_w68693802_b2933347.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MEBQV6z.png" group-title="TV Aberta",REDE TV SP ?
