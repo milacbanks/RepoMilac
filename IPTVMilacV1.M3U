@@ -733,3 +733,34 @@ http://tv.nrg91.gr:1935/onweb/live/chunklist_w142468864.m3u8
 https://itv.streams.ovh/magictv/magictv/chunklist_w561557444.m3u8
 #EXTINF:-1 group-title="MUSIC TV" tvg-logo="" tvg-name=""radio=true,Deejay TV
 https://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-b.m3u8?sd=10&rebase=on
+
+#JULHO
+
+#EXTINF:-1 group-title="JULHO" tvg-logo="" tvg-name=""radio=true,BAND HD
+http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
+#EXTINF:-1 group-title="JULHO" tvg-logo="" tvg-name=""radio=true,Rede TV
+https://hls.brasilstream.com.br/live/redetves/redetves/mono.m3u8
+#EXTINF:-1 group-title="JULHO" tvg-logo="" tvg-name=""radio=true,Rede TV RO
+https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/chunklist_w272749428.m3u8
+#EXTINF:-1 group-title="JULHO" tvg-logo="" tvg-name=""radio=true,AAA
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist.m3u8
+#EXTINF:-1 group-title="JULHO" tvg-logo="" tvg-name=""radio=true,Os JetSons
+https://stmv1.srvif.com/jetsontv/jetsontv/chunklist_w1755218851.m3u8
+#EXTINF:-1 group-title="JULHO" tvg-logo="" tvg-name=""radio=true,AAASS
+https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/chunklist_w612878307.m3u8
+#EXTINF:-1 group-title="JULHO" tvg-logo="" tvg-name=""radio=true,Loading
+https://centurylink.gcp.br.cdn.booyah.live/hls/151073/34850987_1080.m3u8
+#EXTINF:-1 group-title="JULHO" tvg-logo="" tvg-name=""radio=true,Multi SHOW
+https://edge-aws.aovivotv.xyz/hls/s:88.198.239.170/multishow_5f573b82_1861c4826ca4893c1bbfaadead89800241c02069/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTcyLjY4LjI2LjE0OSI7aToxO3M6MTE0OiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCA2LjE7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS85MS4wLjQ0NzIuMTAxIFNhZmFyaS81MzcuMzYiO2k6MjtpOjE2MjU1NDc5NjY7fQ%3D%3D
+#EXTINF:-1 group-title="JULHO" tvg-logo="" tvg-name=""radio=true,Clone TV
+https://stmv2.voxtvhd.com.br/redeclonetv/redeclonetv/chunklist_w1185292870.m3u8
+#EXTINF:-1 group-title="JULHO" tvg-logo="" tvg-name=""radio=true,Filmes Phone
+https://srv1.painelvideo.com/tvmix/tvmix/chunklist_w765257673.m3u8
+#EXTINF:-1 group-title="JULHO" tvg-logo="" tvg-name=""radio=true,Rede TV ES
+https://hls.brasilstream.com.br/live/redetves/redetves/tracks-v1a1/mono.m3u8
+
+
+
+
+
+
