@@ -764,7 +764,7 @@ https://hls.brasilstream.com.br/live/redetves/redetves/tracks-v1a1/mono.m3u8
 #OLHO TV
 
 #TV Cine SD+
-#EXTINF:-1 tvg-id="888" tvg-logo="https://i.ibb.co/SdQB1T7/tv-cine-milac.png" group-title="Olho TV",TV Cine SD+
+#EXTINF:-1 tvg-id="888" tvg-logo="https://i.ibb.co/myZSgfV/tv-cine-milac-2.png" group-title="Olho TV",TV Cine SD+
 https://stmv1.vhcast.com/tvcine/tvcine/playlist.m3u8
 
 #TV Nova Play
