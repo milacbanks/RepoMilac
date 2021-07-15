@@ -767,6 +767,9 @@ https://hls.brasilstream.com.br/live/redetves/redetves/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="888" tvg-logo="https://i.ibb.co/myZSgfV/tv-cine-milac-2.png" group-title="Olho TV",TV Cine SD+
 https://stmv1.vhcast.com/tvcine/tvcine/playlist.m3u8
 
+#EXTINF:-1 tvg-id="888" tvg-logo="https://i.ibb.co/SdQB1T7/tv-cine-milac.png" group-title="Olho TV",TV Cine SD+
+https://centurylink.gcp.br.cdn.booyah.live/hls/151073/34850987_1080.m3u8
+
 #TV Nova Play
 #EXTINF:-1 tvg-id="888" tvg-logo="https://i.ibb.co/KFsNmzd/Nova-play-milac.png" group-title="Olho TV",TV Nova Play
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/playlist.m3u8
