@@ -552,6 +552,8 @@ https://59f2354c05961.streamlock.net:1443/tvideonews/_definst_/tvideonews/chunkl
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvescola.png" group-title="Pública", TV Escola
 https://video-rvd-df-1.rnp.br/live/ocp(t(FkOckp8oHII)r(fVR9ug)a(sTWTlQ)p(d(2xc)k(q8E)m(_A2wYibgoR2EnPRrCPm07g)n(a(LEVWcA)s(SJA)'a(ptt9Hg)s(ZyA)))s(s(0nQ)b(1ZR4Ej-nB6FDOux-7jUidTEaLUyLK03HyS6MwvxEwpclsS-E2dPq1iyGAsq6d6bHBH9JU1EKW_a2QxDtRg)'s(Dx4)b(h36k2Ggi1-5T5_O8pQXJ7kwHhEyXi047BaJ4p0HUoxKU4l7cAPpk6T2AhRS8ST4xUX4Uh_WYLS9FZHgO8TsJ3oJu3V0IPuThfGxJqxA2)'s(I8I)b(3CyMAClL))m(0))/index.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvescola.png" group-title="Pública", TV Escola SD
+https://bit.ly/tvescolamilac
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logotipo_da_tv_metrc3b3pole.png" group-title="Pública",TV Metrópole
 https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sesctv_28201329.png" group-title="Pública", SescTV HD
@@ -758,6 +760,17 @@ https://stmv2.voxtvhd.com.br/redeclonetv/redeclonetv/chunklist_w1185292870.m3u8
 https://srv1.painelvideo.com/tvmix/tvmix/chunklist_w765257673.m3u8
 #EXTINF:-1 group-title="JULHO" tvg-logo="" tvg-name=""radio=true,Rede TV ES
 https://hls.brasilstream.com.br/live/redetves/redetves/tracks-v1a1/mono.m3u8
+
+#OLHO TV
+
+#TV Cine SD+
+#EXTINF:-1 tvg-id="888" tvg-logo="https://ibb.co/jWVDxKZ" group-title="Olho TV",TV Cine SD+
+https://stmv1.vhcast.com/tvcine/tvcine/playlist.m3u8
+
+#TV Nova Play
+#EXTINF:-1 tvg-id="888" tvg-logo="https://ibb.co/yWkhVBt" group-title="Olho TV",TV Nova Play
+https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/playlist.m3u8
+
 
 
 
