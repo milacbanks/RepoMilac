@@ -75,7 +75,7 @@ https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b2128000.
 
 #SBT SP
 #EXTINF:-1 tvg-id="SBT" tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="TV Aberta",SBT SP
-https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w2067742926_b216000_sleng.m3u8
+https://5a1c76baf08c0.streamlock.net/sbtinterior/9es5iant7pv90gyc1jbalgky23l4bpxh/playlist.m3u8
 
 #SBT PE
 #EXTINF:-1 tvg-id="SBT" tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="TV Aberta",SBT PE
@@ -111,8 +111,11 @@ https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
 
 #GAZETA
 
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/tvgazeta.png" group-title="CANAL ABERTO",TV GAZETA HD
+#EXTINF:-1 tvg-id="Gazeta" tvg-logo="https://listaiptvbrasil.com/logo/tvgazeta.png" group-title="CANAL ABERTO",TV Gazeta HD
 http://api.new.livestream.com:80/accounts/5381476/events/8947634/live.m3u8
+
+#EXTINF:-1 tvg-id="TV Gazeta" tvg-logo="https://listaiptvbrasil.com/logo/tvgazeta.png" group-title="CANAL ABERTO",TV GAZETA ORI
+https://bit.ly/tvgazetamilac
 
 #DIFERENTES
 
@@ -149,42 +152,23 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 https://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/chunklist_b963840.m3u8
 
 #Rede Brasil DE
-
-
 #EXTINF:-1 tvg-id="Rede Brasil" tvg-logo="http://i.imgur.com/uwzYiHs.png" group-title="TV Aberta",Rede Brasil DE
-
 http://rbc.directradios.com:1935/rbc/smil:rbc.smil/playlist.m3u8
 
 #DIARIO DO SERTÃO 
-
-
 #EXTINF:-1 tvg-logo="http://s11.postimg.org/l4gjn0o4j/TV_Di_rio_do_Sert_o.png" group-title="TV Aberta",TV DIARIO DO SERTÃO
-
 http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
 
-
-
 #TV PARANA
-
 #EXTINF:-1 tvg-logo="http://s16.postimg.org/axul05l4l/TV_Paran.jpg" group-title="TV Aberta",TV PARANA
 http://200.189.113.201/hls/tve.m3u8
 
-
-
 #TVE RS 
-
-
 #EXTINF:-1 tvg-logo="https://lut.im/nAKOTQRi7f/LsbdLvntn6zXlm9J.png" group-title="CANAL ABERTO", TVE RS
-
 http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="http://s18.postimg.org/j1yr3lukp/REDE_SUPER.png" group-title="Religiosos",REDE SUPER
-
 http://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8
-
-
 
 #CATHOLIC TV
 #EXTINF:-1 tvg-logo="" group-title="DIFERENTE",CATHOLIC TV
@@ -205,7 +189,6 @@ https://stmv1.srvstm.com/tvserie/tvserie/chunklist_w1209030992.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Religiosos",PAI ETERNO
 https://59f1cbe63db89.streamlock.net:1443/teste01/teste01/chunklist_w1194267697.m3u8
 
-
 #EXTINF:-1 tvg-logo="" group-title="DIFERENTE",MANCHETE
 https://srv5.zcast.com.br/tvmanchete/tvmanchete/chunklist_w313459010.m3u8
 
@@ -220,23 +203,16 @@ https://stream3.camara.gov.br/tv1/manifest.m3u8
 
 
 #TV BRASIL
-
-
-
 #EXTINF:-1 tvg-logo="http://s20.postimg.org/m7orza8x9/TV_Cultura.png" group-title="TV Aberta",TV BRASIL
 http://177.74.1.38/funtelpa/tv_funtelpa/playlist.m3u8
-
-
 
 #LOGO
 
 #CANCAO NOVA aovivo.gratis
 #EXTINF:-1 tvg-logo="https://goo.gl/63ISSk" group-title="CATOLICO",CANCAO NOVA
 
-
 #EXTINF:-1´type="video" tvg-logo="LOGOTIPO-DOCANAL" group-title="FILMES" pltv-subgroup="COMEDIA",Nome do Episodio
 https://ia800500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_39.mp4
-
 
 
 #NOVOS
@@ -260,7 +236,7 @@ https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8?IMDSFULL
 #EXTINF:0 group-title="FONTE 1" tvg-logo="https://i.imgur.com/R8qQGoZ.png",RETRO MUSIC HD**
 http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8?IMDSFULL
 
-#EXTINF:0 group-title="FONTE 1" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Retrô TV
+#EXTINF:0 group-title="FONTE 1" tvg-logo="https://i.imgur.com/R8qQGoZ.png",RETRO MUSIC SD
 http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist.m3u8?IMDSFULL
 
 #EXTINF:0 group-title="FONTE 1" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Novo Tempo
