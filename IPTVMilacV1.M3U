@@ -3,6 +3,16 @@
 # Site do EPG - https://cld.pt/dl/download/7a36f027-b90a-4be0-ba89-00acb7d82fa7/RHAEPG.xml
 # Site pra pegar LOGO - http://www.tv-logo.com/page/brazil /// https://logodownload.org/
 
+
+#TESTE EPG CLEBER
+
+#EXTINF:-1 tvg-id="AMC FHD [H265]" tvg-logo="http://a5.vc/Xun" group-title="Teste | Club",AMC FHD [H265]
+http://cdn99.one:80/ZNP3Q/k6wPZ7/71769.ts
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/valedasartes.png" group-title="Teste | Club",RedeTV HD
+https://59f1cbe63db89.streamlock.net:1443/tvvaledasartes/_definst_/tvvaledasartes/playlist.m3u8
+
+
 #JULHO
 
 #EXTINF:-1 group-title="JULHO" tvg-logo="" tvg-name=""radio=true,BAND HD
