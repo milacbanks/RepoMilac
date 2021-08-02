@@ -1,0 +1,11 @@
+﻿#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui._r1"
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/ncDYds2Z9jYtIywZhMBilA8pC5H_big.jpg" group-title="Filmes | Suspense",Mercenário
+http://x00.so:80/movie/ZNP3Q/k6wPZ7/68454.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/A7cZjJDYmHUFYmbIFJmPuOrNgMw_big.jpg" group-title="Filmes | Nacionais",O Homem Perfeito
+http://x00.so:80/movie/ZNP3Q/k6wPZ7/21449.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/iGZX91hIqM9Uu0KGhd4MUaJ0Rtm_big.jpg" group-title="Filmes | Acao",Batman: O Cavaleiro das Trevas
+http://x00.so:80/movie/ZNP3Q/k6wPZ7/19935.mp4
+#EXTINF:-1 tvg-logo="http://x00.so:80/images/wGD7VQr4VDEolsPOpUqXwpLQWbd_big.jpg" group-title="Filmes | Comedia",Mulheres Perfeitas
+http://x00.so:80/movie/ZNP3Q/k6wPZ7/110253.mp4#EXTINF:-1 tvg-logo="http://x00.so:80/images/wGD7VQr4VDEolsPOpUqXwpLQWbd_big.jpg" group-title="Filmes | Comedia",Mulheres Perfeitas
+http://x00.so:80/movie/ZNP3Q/k6wPZ7/110253.mp4

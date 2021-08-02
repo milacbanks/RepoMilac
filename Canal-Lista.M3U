@@ -1,0 +1,12 @@
+﻿#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui._r1"
+#EXTINF:-1 tvg-logo="http://a5.vc/BrP" group-title="Canais | Filmes e Séries",Warner Channel HD
+http://x00.so:80/ZNP3Q/k6wPZ7/72433.ts
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/nick.png" group-title="Canais | Infantis",Nickelodeon HD
+http://x00.so:80/ZNP3Q/k6wPZ7/72207.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/Qin" group-title="Canais | Variedades",Viva HD
+http://x00.so:80/ZNP3Q/k6wPZ7/72429.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/u7I" group-title="Canais | Filmes e Séries",Studio Universal HD
+http://x00.so:80/ZNP3Q/k6wPZ7/72336.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/cii" group-title="Canais | SporTV",SporTV HD
+http://x00.so:80/ZNP3Q/k6wPZ7/72332.ts
