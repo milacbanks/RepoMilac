@@ -2,8 +2,8 @@
 
 #EXTINF:0 type="playlist" tvg-logo="http://ss.b5.vc/white.png", CANAL-MIH
 #EXTBG:http://ss.b5.vc/canais.jpg
-http://bit.ly/milaciptv
+https://raw.githubusercontent.com/milacbanks/RepoMilac/main/Canal-Lista.M3U
 
 #EXTINF:0 type="playlist" tvg-logo="http://ss.b5.vc/white.png", FILME-MIH
 #EXTBG:http://ss.b5.vc/filmes.jpg
-http://
+https://raw.githubusercontent.com/milacbanks/RepoMilac/main/Filme-Lista.M3U
