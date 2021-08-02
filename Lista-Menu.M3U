@@ -1,0 +1,9 @@
+#EXTM3U size="big"
+
+#EXTINF:0 type="playlist" tvg-logo="http://ss.b5.vc/white.png", CANAL-MIH
+#EXTBG:http://ss.b5.vc/canais.jpg
+http://
+
+#EXTINF:0 type="playlist" tvg-logo="http://ss.b5.vc/white.png", FILME-MIH
+#EXTBG:http://ss.b5.vc/filmes.jpg
+http://
