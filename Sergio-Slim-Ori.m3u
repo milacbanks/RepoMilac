@@ -1,0 +1,13 @@
+#EXTM3U size="big"
+#EXTINF:0 type="playlist" tvg-logo="http://ss.b5.vc/white.png", AO VIVO
+#EXTBG:http://ss.b5.vc/canais.jpg
+http://x00.so:80/playlist/Q6bbe/FZnw29/m3u_plus?output=ts&key=live
+#EXTINF:0 type="playlist" tvg-logo="http://ss.b5.vc/white.png", FILMES
+#EXTBG:http://ss.b5.vc/filmes.jpg
+http://x00.so:80/playlist/Q6bbe/FZnw29/m3u_plus?output=ts&key=movie
+#EXTINF:0 type="playlist" tvg-logo="http://ss.b5.vc/white.png", SÉRIES
+#EXTBG:http://ss.b5.vc/seriados.jpg
+http://x00.so:80/playlist/Q6bbe/FZnw29/m3u_plus?output=ts&key=series
+#EXTINF:0 type="playlist" tvg-logo="http://ss.b5.vc/white.png", RÁDIOS
+#EXTBG:http://ss.b5.vc/radio.jpg
+http://x00.so:80/playlist/Q6bbe/FZnw29/m3u_plus?output=ts&key=radio_streams
