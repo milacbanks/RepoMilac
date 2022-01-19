@@ -1,4 +1,3 @@
-
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="http://a5.vc/cii" group-title="Canais | SporTV",SporTV FHD [H265]
@@ -31,3 +30,123 @@ http://x00.so:80/Q6bbe/FZnw29/72325.ts
 http://x00.so:80/Q6bbe/FZnw29/131113.ts
 #EXTINF:-1 tvg-logo="http://a5.vc/ybu" group-title="Canais | SporTV",SporTV 3 SD
 http://x00.so:80/Q6bbe/FZnw29/131108.ts
+
+
+
+
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere Clubes FHD [H265]
+http://x00.so:80/Q6bbe/FZnw29/72263.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | 4K [FHDR]",Premiere Clubes 4K FHDR
+http://x00.so:80/Q6bbe/FZnw29/72264.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere Clubes FHD
+http://x00.so:80/Q6bbe/FZnw29/72262.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere Clubes HD
+http://x00.so:80/Q6bbe/FZnw29/72265.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere Clubes SD
+http://x00.so:80/Q6bbe/FZnw29/72266.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 2 FHD [H265]
+http://x00.so:80/Q6bbe/FZnw29/72238.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | 4K [FHDR]",Premiere 2 4K FHDR
+http://x00.so:80/Q6bbe/FZnw29/103482.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 2 FHD
+http://x00.so:80/Q6bbe/FZnw29/72237.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 2 HD
+http://x00.so:80/Q6bbe/FZnw29/72239.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 2 SD
+http://x00.so:80/Q6bbe/FZnw29/72240.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 3 FHD [H265]
+http://x00.so:80/Q6bbe/FZnw29/72242.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | 4K [FHDR]",Premiere 3 4K FHDR
+http://x00.so:80/Q6bbe/FZnw29/103481.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 3 FHD
+http://x00.so:80/Q6bbe/FZnw29/72241.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 3 HD
+http://x00.so:80/Q6bbe/FZnw29/72243.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 3 SD
+http://x00.so:80/Q6bbe/FZnw29/72244.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 4 FHD [H265]
+http://x00.so:80/Q6bbe/FZnw29/72246.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | 4K [FHDR]",Premiere 4 4K FHDR
+http://x00.so:80/Q6bbe/FZnw29/103480.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 4 FHD
+http://x00.so:80/Q6bbe/FZnw29/72245.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 4 HD
+http://x00.so:80/Q6bbe/FZnw29/72247.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 4 SD
+http://x00.so:80/Q6bbe/FZnw29/72248.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 5 FHD [H265]
+http://x00.so:80/Q6bbe/FZnw29/72250.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | 4K [FHDR]",Premiere 5 4K FHDR
+http://x00.so:80/Q6bbe/FZnw29/103479.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 5 FHD
+http://x00.so:80/Q6bbe/FZnw29/72249.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 5 HD
+http://x00.so:80/Q6bbe/FZnw29/72251.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 5 SD
+http://x00.so:80/Q6bbe/FZnw29/72252.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 6 FHD [H265]
+http://x00.so:80/Q6bbe/FZnw29/72254.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | 4K [FHDR]",Premiere 6 4K FHDR
+http://x00.so:80/Q6bbe/FZnw29/103478.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 6 FHD
+http://x00.so:80/Q6bbe/FZnw29/72253.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 6 HD
+http://x00.so:80/Q6bbe/FZnw29/72255.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 6 SD
+http://x00.so:80/Q6bbe/FZnw29/72256.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 7 FHD [H265]
+http://x00.so:80/Q6bbe/FZnw29/72258.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | 4K [FHDR]",Premiere 7 4K FHDR
+http://x00.so:80/Q6bbe/FZnw29/103477.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 7 FHD
+http://x00.so:80/Q6bbe/FZnw29/72257.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 7 HD
+http://x00.so:80/Q6bbe/FZnw29/72259.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 7 SD
+http://x00.so:80/Q6bbe/FZnw29/72260.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 8 SD
+http://x00.so:80/Q6bbe/FZnw29/72261.ts
+
+
+
+#EXTINF:-1 tvg-logo="http://a5.vc/KCw" group-title="Canais | ESPN",ESPN 2 FHD [H265]
+http://x00.so:80/Q6bbe/FZnw29/71920.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/8lJ" group-title="Canais | 4K [FHDR]",ESPN 3 4K FHDR
+http://x00.so:80/Q6bbe/FZnw29/103504.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/KCw" group-title="Canais | 4K [FHDR]",ESPN 2 4K FHDR
+http://x00.so:80/Q6bbe/FZnw29/71921.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/KCw" group-title="Canais | ESPN",ESPN 2 FHD
+http://x00.so:80/Q6bbe/FZnw29/71919.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/KCw" group-title="Canais | ESPN",ESPN 2 HD
+http://x00.so:80/Q6bbe/FZnw29/71922.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/KCw" group-title="Canais | ESPN",ESPN 2 SD
+http://x00.so:80/Q6bbe/FZnw29/71923.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/8lJ" group-title="Canais | ESPN",ESPN 3 FHD [H265]
+http://x00.so:80/Q6bbe/FZnw29/71908.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/8lJ" group-title="Canais | ESPN",ESPN 3 FHD
+http://x00.so:80/Q6bbe/FZnw29/71907.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/8lJ" group-title="Canais | ESPN",ESPN 3 HD
+http://x00.so:80/Q6bbe/FZnw29/71909.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/8lJ" group-title="Canais | ESPN",ESPN 3 SD
+http://x00.so:80/Q6bbe/FZnw29/71910.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/8lJ" group-title="Canais | ESPN",ESPN FHD [H265]
+http://x00.so:80/Q6bbe/FZnw29/71912.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/YpF" group-title="Canais | 4K [FHDR]",ESPN 4K FHDR
+http://x00.so:80/Q6bbe/FZnw29/90640.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/8lJ" group-title="Canais | ESPN",ESPN FHD
+http://x00.so:80/Q6bbe/FZnw29/71911.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/8lJ" group-title="Canais | ESPN",ESPN HD
+http://x00.so:80/Q6bbe/FZnw29/71913.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/8lJ" group-title="Canais | ESPN",ESPN SD
+http://x00.so:80/Q6bbe/FZnw29/71914.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/i1l" group-title="Canais | ESPN",ESPN Extra FHD [H265]
+http://x00.so:80/Q6bbe/FZnw29/71916.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/i1l" group-title="Canais | 4K [FHDR]",ESPN Extra 4K FHDR
+http://x00.so:80/Q6bbe/FZnw29/103505.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/i1l" group-title="Canais | ESPN",ESPN Extra FHD
+http://x00.so:80/Q6bbe/FZnw29/71915.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/i1l" group-title="Canais | ESPN",ESPN Extra HD
+http://x00.so:80/Q6bbe/FZnw29/71917.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/i1l" group-title="Canais | ESPN",ESPN Extra SD
+http://x00.so:80/Q6bbe/FZnw29/71918.ts
+
