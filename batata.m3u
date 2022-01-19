@@ -1,0 +1,33 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://a5.vc/cii" group-title="Canais | SporTV",SporTV FHD [H265]
+http://x00.so:80/Q6bbe/FZnw29/72330.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/ybu" group-title="Canais | 4K [FHDR]",SporTV3 4K FHDR
+http://x00.so:80/Q6bbe/FZnw29/103471.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/cii" group-title="Canais | 4K [FHDR]",SporTV 4K FHDR
+http://x00.so:80/Q6bbe/FZnw29/131188.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/cii" group-title="Canais | SporTV",SporTV FHD
+http://x00.so:80/Q6bbe/FZnw29/72329.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/cii" group-title="Canais | SporTV",SporTV HD
+http://x00.so:80/Q6bbe/FZnw29/72332.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/cii" group-title="Canais | SporTV",SporTV SD
+http://x00.so:80/Q6bbe/FZnw29/131132.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/YO7" group-title="Canais | SporTV",SporTV 2 FHD [H265]
+http://x00.so:80/Q6bbe/FZnw29/131147.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/YO7" group-title="Canais | 4K [FHDR]",SporTV 2 4K FHDR
+http://x00.so:80/Q6bbe/FZnw29/103472.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/YO7" group-title="Canais | SporTV",SporTV 2 FHD
+http://x00.so:80/Q6bbe/FZnw29/72321.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/YO7" group-title="Canais | SporTV",SporTV 2 HD
+http://x00.so:80/Q6bbe/FZnw29/131176.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/YO7" group-title="Canais | SporTV",SporTV 2 SD
+http://x00.so:80/Q6bbe/FZnw29/72324.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/ybu" group-title="Canais | SporTV",SporTV 3 FHD [H265]
+http://x00.so:80/Q6bbe/FZnw29/72326.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/ybu" group-title="Canais | SporTV",SporTV 3 FHD
+http://x00.so:80/Q6bbe/FZnw29/72325.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/ybu" group-title="Canais | SporTV",SporTV 3 HD
+http://x00.so:80/Q6bbe/FZnw29/131113.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/ybu" group-title="Canais | SporTV",SporTV 3 SD
+http://x00.so:80/Q6bbe/FZnw29/131108.ts
