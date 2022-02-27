@@ -3,6 +3,10 @@
 # Site do EPG - https://cld.pt/dl/download/7a36f027-b90a-4be0-ba89-00acb7d82fa7/RHAEPG.xml
 # Site pra pegar LOGO - http://www.tv-logo.com/page/brazil /// https://logodownload.org/
 
+#YOUTU
+#EXTINF:-1 tvg-logo="" group-title="YOUTUB",You 01
+https://youtu.be/vtBDnzgxU_Q
+
 #GLOBO
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AQOl8Bf.png" group-title="EPG TEST",Globo RJ HD
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
