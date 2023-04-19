@@ -4,9 +4,13 @@
 #Site pra pegar LOGO - http://www.tv-logo.com/page/brazil /// https://logodownload.org/ 123
 
 
-
+#Filme VK
 #EXTINF:-1 tvg-id="VK" tvg-logo="" group-title="VK Teste
 https://pvv4.vkuservideo.net/c532102/video/hls/ef6PzUwMjs-MDUx/videos/7f8a275385/index-f2-v1-a1.m3u8
+
+#TV Nova Play
+#EXTINF:-1 tvg-id="888" tvg-logo="https://i.ibb.co/KFsNmzd/Nova-play-milac.png" group-title="Olho TV",TV Nova Play
+https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/playlist.m3u8
 
 
 #TESTE EPG CLEBER
