@@ -1,7 +1,12 @@
-#EXTM3U x-tvg-url="https://bit.ly/MilacRhaEPG"
+#EXTM3U x-tvg-url="site-vai-aqui"
 
 # Site do EPG - https://cld.pt/dl/download/7a36f027-b90a-4be0-ba89-00acb7d82fa7/RHAEPG.xml
 # Site pra pegar LOGO - http://www.tv-logo.com/page/brazil /// https://logodownload.org/
+
+
+
+#EXTINF:-1 tvg-id="VK" tvg-logo="" group-title="VK Teste
+https://pvv4.vkuservideo.net/c532102/video/hls/ef6PzUwMjs-MDUx/videos/7f8a275385/index-f2-v1-a1.m3u8
 
 
 #TESTE EPG CLEBER
