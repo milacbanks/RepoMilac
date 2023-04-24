@@ -14,6 +14,10 @@ https://proxy-04.nyc.dailymotion.com/sec(eUr04nlHUdL_H2XQBfZlD0ZL2czGNX96GDLYwko
 https://vod-progressive.akamaized.net/exp=1682302858~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F3555%2F28%2F717779857%2F3328512195.mp4~hmac=56760395d259ec720e444faa198f1261cb06861e058d0444dcd9d5050d347eed/vimeo-prod-skyfire-std-us/01/3555/28/717779857/3328512195.mp4?fbclid=IwAR16AKsxbEUw6EQoarGK8UYr307NoQeWYVrwL3BXOO9O7IjLNnnzynPKeFs
 
 
+
+#EXTINF:-1 tvg-name="VK Nome" tvg-logo="https://p-smith.com/logo/dmm_com.svg" group-title="VK Grupo",VK Nome 04
+https://vod-progressive.akamaized.net/exp=1682305193~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F668%2F8%2F203341831%2F689959092.mp4~hmac=088218f92e1139c0b1949a4c160e020fc9978f8d3875857cd4dd3a4168e51f9d/vimeo-prod-skyfire-std-us/01/668/8/203341831/689959092.mp4
+
 #EXTINF:-1 tvg-name="Nickelodeon HD" tvg-logo="http://static.clubsrv.me/logos/canais/nick.png" group-title="Canais | Infantis",Nickelodeon HD
 http://acsa.ws:80/ClovisBKS/Milac2022/72207.ts
 
