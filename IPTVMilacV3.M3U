@@ -33,16 +33,42 @@ http://tv.nrg91.gr:1935/onweb/live/chunklist_w142468864.m3u8
 https://itv.streams.ovh/magictv/magictv/chunklist_w561557444.m3u8
 
 
-#Edificio Paraíso
 
-#EXTINF:-1 tvg-name="EDI" tvg-logo="ICONE" group-title="ED. PARAISO",Paraíso 01
 
+
+#Edificio Paraíso 720p
+
+
+#EXTINF:-1 tvg-name="Edificio Paraiso" tvg-logo="https://encurtador.com.br/beyQ8" group-title="Series | Edificio Paraiso",Edificio Paraiso: S01E00
+https://proxy-04.nyc.dailymotion.com/sec(eUr04nlHUdL_H2XQBfZlD0ZL2czGNX96GDLYwko0vlJi0GqKeJtARILegDb735JmIQGDs7TuH4eseF8qDeeU6E8c_YwNHFyaCVPLmKjVkXQ)/video/569/779/461977965_mp4_h264_aac_hq.m3u8
+
+
+#EXTINF:-1 tvg-name="Edificio Paraiso" tvg-logo="https://encurtador.com.br/beyQ8" group-title="Series | Edificio Paraiso",Edificio Paraiso: S01E01
 https://proxy-007.dc3.dailymotion.com/sec(YNIM0Z7pM0_G8_IAIuJiEOVB6LifcZQ3gUktYFMlJVk4lm9Rr5Dao4apGgKBb8klnCYbgNgiijdiybOFWnjPCrZWZYsGS7T_W5HYU9I_T1k)/video/446/522/343225644_mp4_h264_aac_hd.m3u8
 
-#EXTINF:-1 tvg-name="EDI" tvg-logo="ICONE" group-title="ED. PARAISO",Paraíso 02
 
+#EXTINF:-1 tvg-name="Edificio Paraiso" tvg-logo="https://encurtador.com.br/beyQ8" group-title="Series | Edificio Paraiso",Edificio Paraiso: S01E02
 https://proxy-012.dc3.dailymotion.com/sec(eUr04nlHUdL_H2XQBfZlDw2eIybT7N2F8IaVhch_rU2_XgcFd6I2iCDk4sRGZlV0Vozg4IxHmWrR55P4r0pbEg82fxB7QMsrB0ErQ68p4rg)/video/565/722/343227565_mp4_h264_aac_hd.m3u8
 
+
+#EXTINF:-1 tvg-name="Edificio Paraiso" tvg-logo="https://encurtador.com.br/beyQ8" group-title="Series | Edificio Paraiso",Edificio Paraiso: S01E03
+https://proxy-024.dc3.dailymotion.com/sec(aOXeWEr3a_xENLWls5_zviYQz9KSq_Uk7pobdUHg6KFm-rvhu-6RsfTL5FODhhPVrr_MqaLav0w0mnmv8jeqc0yUdFJJA0SM_VLh6QiXVCk)/video/377/832/343238773_mp4_h264_aac_hd.m3u8
+
+
+#EXTINF:-1 tvg-name="Edificio Paraiso" tvg-logo="https://encurtador.com.br/beyQ8" group-title="Series | Edificio Paraiso",Edificio Paraiso: S01E04
+https://proxy-038.ix7.dailymotion.com/sec(S3gE9S9zMTHQTANoX-MBCWBGlSXIy0Aj3A6PAqKtcT11UckvGL5f4eV4TO_rn5K74RsJAbUF3VNAxl7MAeL4gMsGUBFkA6ZWCDL3PDQoigE)/video/657/084/343480756_mp4_h264_aac_hd.m3u8
+
+
+#EXTINF:-1 tvg-name="Edificio Paraiso" tvg-logo="https://encurtador.com.br/beyQ8" group-title="Series | Edificio Paraiso",Edificio Paraiso: S01E05
+https://proxy-038.dc3.dailymotion.com/sec(LL70bUvxgBlOH8BfPRBrXwq5xEqPw-IKkhu7EoOcUHKBXSx7RXi3n1mp4Fo6daZMELYjaFfsT4r0zU3UebrsGUBApz7uVQfoWl9oraU-GoA)/video/210/584/343485012_mp4_h264_aac_hd.m3u8
+
+
+#EXTINF:-1 tvg-name="Edificio Paraiso" tvg-logo="https://encurtador.com.br/beyQ8" group-title="Series | Edificio Paraiso",Edificio Paraiso: S01E06
+https://proxy-038.ix7.dailymotion.com/sec(H0vpOyVbcEs_XQ6KAJPaZpqV_x7BywfjWFHEne5fQzJPE0DanjbmwDwajXo04I5fX7tDJnht7hkjPaunoUFK6n9nqpypuN7GNdTE_ckyen0)/video/016/884/343488610_mp4_h264_aac_hd.m3u8
+
+
+#EXTINF:-1 tvg-name="Edificio Paraiso" tvg-logo="https://encurtador.com.br/beyQ8" group-title="Series | Edificio Paraiso",Edificio Paraiso: URSO
+https://free.freefirebrr.online/4ExPv02_I0KJR--cyaZzBDFkc9z1cAZwWyKmBl2m-67n0Ibzo3ph0GzFaOzIyNH1Imfjs4hWIFLbrFosfhn3cw/uF9sVWa6o48kTkVt-tvcveIHZyEVXgLqRinp9hjT02g/720.m3u8
 
 
 
