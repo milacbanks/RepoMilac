@@ -11,3 +11,20 @@ http://x00.so:80/movie/ZNP3Q/k6wPZ7/19935.mp4
 #EXTINF:-1 tvg-logo="http://x00.so:80/images/wGD7VQr4VDEolsPOpUqXwpLQWbd_big.jpg" group-title="Filmes | Comedia",Mulheres Perfeitas
 http://x00.so:80/movie/ZNP3Q/k6wPZ7/110253.mp4#EXTINF:-1 tvg-logo="http://x00.so:80/images/wGD7VQr4VDEolsPOpUqXwpLQWbd_big.jpg" group-title="Filmes | Comedia",Mulheres Perfeitas
 http://x00.so:80/movie/ZNP3Q/k6wPZ7/110253.mp4
+
+#EXTINF:-1 tvg-id="Warner.br" tvg-name="Warner Channel SD" tvg-logo="https://icons-wapp.ipcdn4.com/Pasta%201/_0000s_0000s_0000s_0083_warnner.png" group-title="Canais | Brasil",Warner Channel SD
+http://zerohop.sbs/live/a7387n5/b768e31/1205.ts
+#EXTINF:-1 tvg-id="Warner.br" tvg-name="Warner Channel HD" tvg-logo="https://icons-wapp.ipcdn4.com/Pasta%201/_0000s_0000s_0000s_0083_warnner.png" group-title="Canais | Brasil",Warner Channel HD
+http://zerohop.sbs/live/a7387n5/b768e31/1206.ts
+#EXTINF:-1 tvg-id="Warner.br" tvg-name="Warner Channel FHD" tvg-logo="https://icons-wapp.ipcdn4.com/Pasta%201/_0000s_0000s_0000s_0083_warnner.png" group-title="Canais | Brasil",Warner Channel FHD
+http://zerohop.sbs/live/a7387n5/b768e31/1207.ts
+#EXTINF:-1 tvg-id="Warner.br" tvg-name="Warner LEG SD" tvg-logo="https://icons-wapp.ipcdn4.com/Pasta%201/_0000s_0000s_0000s_0083_warnner.png" group-title="Canais | Brasil",Warner LEG SD
+http://zerohop.sbs/live/a7387n5/b768e31/1526590.ts
+#EXTINF:-1 tvg-id="Warner.br" tvg-name="Warner LEG HD" tvg-logo="https://icons-wapp.ipcdn4.com/Pasta%201/_0000s_0000s_0000s_0083_warnner.png" group-title="Canais | Brasil",Warner LEG HD
+http://zerohop.sbs/live/a7387n5/b768e31/1526591.ts
+#EXTINF:-1 tvg-id="Warner.br" tvg-name="Warner LEG FHD" tvg-logo="https://icons-wapp.ipcdn4.com/Pasta%201/_0000s_0000s_0000s_0083_warnner.png" group-title="Canais | Brasil",Warner LEG FHD
+http://zerohop.sbs/live/a7387n5/b768e31/1526592.ts
+#EXTINF:-1 tvg-id="Zappingsports.br" tvg-name="Zapping Sports 01 HD" tvg-logo="https://icons-wapp.ipcdn4.com/pasta%203/zapping%20sports.png" group-title="Canais | Brasil",Zapping Sports 01 HD
+http://zerohop.sbs/live/a7387n5/b768e31/1087435.ts
+#EXTINF:-1 tvg-id="Radios.br" tvg-name="Radio Alvorada 94.9 FM BH" tvg-logo="https://icons-wapp.ipcdn4.com/pasta%203/radio.png" group-title="Canais | Brasil",Radio Alvorada 94.9 FM BH
+http://zerohop.sbs/live/a7387n5/b768e31/865576.ts
