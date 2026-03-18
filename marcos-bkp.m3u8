@@ -1,0 +1,53 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="SBT - REDE MASSA" tvg-logo="https://mondrian.claro.com.br/channels/inverse/sbt@3x.png" group-title="CANAIS | SBT FILIAIS",SBT - REDE MASSA
+http://alerquinaz.top/live/TiagoFFBKS/cqwgadwz/276878.ts
+#EXTINF:-1 tvg-name="SBT - REDE MASSA NAIPI (PR)" tvg-logo="https://mondrian.claro.com.br/channels/inverse/sbt@3x.png" group-title="CANAIS | SBT FILIAIS",SBT - REDE MASSA NAIPI (PR)
+http://alerquinaz.top/live/TiagoFFBKS/cqwgadwz/276879.ts
+#EXTINF:-1 tvg-name="SBT - TV CIDADE VERDE" tvg-logo="https://mondrian.claro.com.br/channels/inverse/sbt@3x.png" group-title="CANAIS | SBT FILIAIS",SBT - TV CIDADE VERDE
+http://alerquinaz.top/live/TiagoFFBKS/cqwgadwz/276877.ts
+#EXTINF:-1 tvg-name="SBT - TV FLORESTA" tvg-logo="https://mondrian.claro.com.br/channels/inverse/sbt@3x.png" group-title="CANAIS | SBT FILIAIS",SBT - TV FLORESTA
+http://alerquinaz.top/live/TiagoFFBKS/cqwgadwz/276876.ts
+#EXTINF:-1 tvg-name="SBT - TV SERRA DOURADA" tvg-logo="https://mondrian.claro.com.br/channels/inverse/sbt@3x.png" group-title="CANAIS | SBT FILIAIS",SBT - TV SERRA DOURADA
+http://alerquinaz.top/live/TiagoFFBKS/cqwgadwz/276875.ts
+#EXTINF:-1 tvg-name="SBT BAHIA ARATU HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/sbt@3x.png" group-title="CANAIS | SBT FILIAIS",SBT BAHIA ARATU HD
+http://alerquinaz.top/live/TiagoFFBKS/cqwgadwz/26405.ts
+#EXTINF:-1 tvg-name="SBT CEARA JANGADEIRO FHD H265" tvg-logo="https://mondrian.claro.com.br/channels/inverse/sbt@3x.png" group-title="CANAIS | SBT FILIAIS",SBT CEARA JANGADEIRO FHD H265
+http://alerquinaz.top/live/TiagoFFBKS/cqwgadwz/26407.ts
+
+
+#EXTINF:-1 tvg-name="Distrito Comedia" tvg-logo="http://www.tmsimg.com/assets/s55980_ll_h3_aa.png" group-title="CANAIS | MEXICO",Distrito Comedia
+http://alerquinaz.top/live/TiagoFFBKS/cqwgadwz/492704.ts
+#EXTINF:-1 tvg-name="Tela Brasil Play" tvg-logo="https://iili.io/qKcjsEl.png" group-title="CANAIS | FILMES E SERIES",Tela Brasil Play
+http://alerquinaz.top/live/TiagoFFBKS/cqwgadwz/529501.ts
+#EXTINF:-1 tvg-name="Reviva TV" tvg-logo="https://iili.io/qKcjL42.png" group-title="CANAIS | FILMES E SERIES",Reviva TV
+http://alerquinaz.top/live/TiagoFFBKS/cqwgadwz/529502.ts
+#EXTINF:-1 tvg-name="Canal UOL" tvg-logo="https://mondrian.claro.com.br/channels/inverse/canal-uol@3x.png" group-title="CANAIS | NOTICIAS",Canal UOL
+http://alerquinaz.top/live/TiagoFFBKS/cqwgadwz/492756.ts
+#EXTINF:-1 tvg-name="GE TV" tvg-logo="https://mondrian.claro.com.br/channels/inverse/ge-tv@3x.png" group-title="CANAIS | ESPORTES",GE TV
+http://alerquinaz.top/live/TiagoFFBKS/cqwgadwz/530068.ts
+#EXTINF:-1 tvg-name="Telecine Touch 4K" tvg-logo="https://mondrian.claro.com.br/channels/inverse/tc-touch@3x.png" group-title="CANAIS | UHD 4K",Telecine Touch 4K
+http://alerquinaz.top/live/TiagoFFBKS/cqwgadwz/530118.ts
+#EXTINF:-1 tvg-name="Telecine Fun 4K" tvg-logo="https://mondrian.claro.com.br/channels/inverse/tc-fun@3x.png" group-title="CANAIS | UHD 4K",Telecine Fun 4K
+http://alerquinaz.top/live/TiagoFFBKS/cqwgadwz/530117.ts
+
+
+#EXTINF:-1 tvg-name="Padel Nosso [L]" tvg-logo="https://image.tmdb.org/t/p/w500/NMVbasCl3PO2Uy1POFm2S4jojM.jpg" group-title="FILMES | LEGENDADOS",Padel Nosso [L]
+http://alerquinaz.top/movie/TiagoFFBKS/cqwgadwz/500556.mp4
+#EXTINF:-1 tvg-name="Os Caras Malvados 2" tvg-logo="https://image.tmdb.org/t/p/w500/dbpNAldCtWjotI4vEiphPrz8DJh.jpg" group-title="FILMES | ANIMES",Os Caras Malvados 2
+http://alerquinaz.top/movie/TiagoFFBKS/cqwgadwz/500555.mp4
+#EXTINF:-1 tvg-name="Os Caras Malvados 2 [L]" tvg-logo="https://image.tmdb.org/t/p/w500/dbpNAldCtWjotI4vEiphPrz8DJh.jpg" group-title="FILMES | LEGENDADOS",Os Caras Malvados 2 [L]
+http://alerquinaz.top/movie/TiagoFFBKS/cqwgadwz/500554.mp4
+#EXTINF:-1 tvg-name="Juntos 4K" tvg-logo="https://image.tmdb.org/t/p/w500/gFizWARkUj7SMuGkmssxIV9TkgT.jpg" group-title="FILMES | 4K",Juntos 4K
+http://alerquinaz.top/movie/TiagoFFBKS/cqwgadwz/500553.mp4
+#EXTINF:-1 tvg-name="Ela Disse Talvez" tvg-logo="https://image.tmdb.org/t/p/w500/1IyovHStVFP3Bt5JwGB0c4uST5J.jpg" group-title="FILMES | DRAMA",Ela Disse Talvez
+http://alerquinaz.top/movie/TiagoFFBKS/cqwgadwz/500552.mp4
+#EXTINF:-1 tvg-name="Ela Disse Talvez [L]" tvg-logo="https://image.tmdb.org/t/p/w500/1IyovHStVFP3Bt5JwGB0c4uST5J.jpg" group-title="FILMES | LEGENDADOS",Ela Disse Talvez [L]
+http://alerquinaz.top/movie/TiagoFFBKS/cqwgadwz/500551.mp4
+#EXTINF:-1 tvg-name="O Poder de Acreditar" tvg-logo="https://image.tmdb.org/t/p/w500/7plzDbtgpmUCQXVF4fyoW3u82qj.jpg" group-title="FILMES | DRAMA",O Poder de Acreditar
+http://alerquinaz.top/movie/TiagoFFBKS/cqwgadwz/500550.mp4
+#EXTINF:-1 tvg-name="O Poder de Acreditar [L]" tvg-logo="https://image.tmdb.org/t/p/w500/7plzDbtgpmUCQXVF4fyoW3u82qj.jpg" group-title="FILMES | LEGENDADOS",O Poder de Acreditar [L]
+http://alerquinaz.top/movie/TiagoFFBKS/cqwgadwz/500549.mp4
+#EXTINF:-1 tvg-name="Deu Match: A Rainha de Apps de Namoro" tvg-logo="https://image.tmdb.org/t/p/w500/ulRT1tSPzaPuySSHZgc5UGFMIMh.jpg" group-title="FILMES | DRAMA",Deu Match: A Rainha de Apps de Namoro
+http://alerquinaz.top/movie/TiagoFFBKS/cqwgadwz/500548.mp4
+#EXTINF:-1 tvg-name="Deu Match: A Rainha de Apps de Namoro [L]" tvg-logo="https://image.tmdb.org/t/p/w500/ulRT1tSPzaPuySSHZgc5UGFMIMh.jpg" group-title="FILMES | LEGENDADOS",Deu Match: A Rainha de Apps de Namoro [L]
+http://alerquinaz.top/movie/TiagoFFBKS/cqwgadwz/500547.mp4
